@@ -1,0 +1,13 @@
+.head {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: white;
+}
+.first {
+  background-color: #8282fb;
+  padding: 3% !important;
+}
+.main {
+  margin: 5%;
+}
