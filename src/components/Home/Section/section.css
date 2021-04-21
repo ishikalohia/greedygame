@@ -1,0 +1,26 @@
+.section {
+  background-color: #6161de;
+  height: 50vh;
+}
+.head1 {
+  font-size: 32px;
+  font-family: sans-serif;
+  color: white;
+  padding: 7%;
+}
+.icon-im {
+  padding-left: 20%;
+  padding-bottom: 10%;
+  line-height: 25px;
+}
+.caption {
+  color: white;
+  font-size: 16px;
+  font-family: sans-serif;
+  margin-top: 1%;
+}
+@media only screen and (max-width: 1280px) {
+  .section {
+    display: none;
+  }
+}
