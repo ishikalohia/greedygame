@@ -1,6 +1,9 @@
 .app-head {
   font-family: sans-serif;
-  font-size: 36px;
+  font-size: 46px;
   font-weight: 500;
-  padding: 5%;
+  padding: 7%;
+  padding-bottom: 2%;
+  background-color: white;
+  margin: 0;
 }

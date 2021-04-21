@@ -32,7 +32,7 @@ export default function CenteredGrid() {
           </div>
           <Section />
         </Grid>
-        <Grid item xs={12} lg={6}>
+        <Grid item xs={12} lg={6} style={{ backgroundColor: "#f7f7f7" }}>
           <Appstat />
         </Grid>
       </Grid>

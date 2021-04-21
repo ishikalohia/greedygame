@@ -1,0 +1,33 @@
+@media screen and (min-width: 1280px) {
+  .scroll {
+    height: calc(85vh - 50px);
+    overflow-y: scroll;
+  }
+}
+.MuiCardHeader-title {
+  font-family: sans-serif !important;
+  font-size: 20px !important;
+  font-weight: 400 !important;
+}
+.MuiCardHeader-subheader {
+  font-family: sans-serif !important;
+  font-size: 12px !important;
+}
+.card {
+  margin: 5%;
+  margin-bottom: 0;
+  height: 200px;
+  background-color: white;
+}
+table {
+  padding: 3%;
+  font-family: sans-serif;
+  width: 100%;
+}
+td {
+  padding: 0% 2%;
+}
+.details {
+  font-size: 28px;
+  font-weight: 500;
+}
