@@ -2,7 +2,7 @@
 
 This project is part of an assignment. AdSoul is a dashboard of apps with its ads stats.
 
-# Website URL
+# Website URL - 
 
 https://adsoul-ishika.herokuapp.com/
 
